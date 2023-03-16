@@ -1,5 +1,5 @@
 Git Basic Command
 1- nano- to open a file eg. (Nano Tex.txt)
 2- touch - to create a file eg. (touch "tex.txt")
-3- 
+3- git init
 
